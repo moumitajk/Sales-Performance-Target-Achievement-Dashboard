@@ -1,6 +1,6 @@
-# 📊 Sales Performance & Target Achievement Dashboard (Excel)
+# Sales Performance & Target Achievement Dashboard (Excel)
 
-## 🔍 Project Overview
+## Project Overview
 This project is an interactive **Sales Performance Dashboard** built in Microsoft Excel to track and analyze sales executives' performance across different regions.
 
 The dashboard helps monitor:
@@ -14,7 +14,7 @@ It enables quick, data-driven decision-making for sales managers.
 
 ---
 
-## 🎯 Objective
+## Objective
 The goal of this project is to:
 - Analyze sales performance by executive and region  
 - Compare actual sales against targets  
@@ -23,7 +23,7 @@ The goal of this project is to:
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 The dataset includes:
 
 - **Employee Code**
@@ -37,7 +37,7 @@ The dataset includes:
 
 ---
 
-## ⚙️ Tools & Skills Used
+## Tools & Skills Used
 - Microsoft Excel  
 - Pivot Tables  
 - Charts & Graphs  
@@ -48,7 +48,7 @@ The dataset includes:
 
 ---
 
-## 📈 Key Features
+## Key Features
 ✔ Region-wise filtering  
 ✔ Dynamic performance tracking  
 ✔ Target vs Achievement analysis  
@@ -57,7 +57,7 @@ The dataset includes:
 
 ---
 
-## 📊 KPIs Tracked
+## KPIs Tracked
 - Total Sales  
 - Target Hit %  
 - Away From Target %  
@@ -66,7 +66,7 @@ The dataset includes:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - Some regions consistently outperform others  
 - A few executives contribute a large portion of total sales  
 - Target achievement varies significantly among executives  
@@ -74,14 +74,14 @@ The dataset includes:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Open the Excel file  
 2. Use region filters to view specific data  
 3. Analyze charts and KPIs for insights  
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Add monthly or yearly trend analysis  
 - Automate data updates  
 - Connect with Power BI or SQL database  
@@ -89,10 +89,8 @@ The dataset includes:
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 I am a data enthusiast focused on analytics and dashboard creation.  
 This project is part of my portfolio to demonstrate data analysis and visualization skills.
 
----
 
-⭐ If you like this project, feel free to star the repo!
